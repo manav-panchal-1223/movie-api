@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>dev.manav</groupId>
-	<artifactId>movies</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>movies-api</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
 	<name>movies</name>
 	<description>Movies API</description>
 	<properties>
