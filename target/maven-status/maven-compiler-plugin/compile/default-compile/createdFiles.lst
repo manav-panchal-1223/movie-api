@@ -1,0 +1,9 @@
+dev\manav\movies\Movie.class
+dev\manav\movies\Review.class
+dev\manav\movies\MovieService.class
+dev\manav\movies\MoviesApplication.class
+dev\manav\movies\MovieRepository.class
+dev\manav\movies\ReviewController.class
+dev\manav\movies\MovieController.class
+dev\manav\movies\ReviewRepository.class
+dev\manav\movies\ReviewService.class
